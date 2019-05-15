@@ -8,6 +8,6 @@ Using Random Forest Regression the model was trained to predict the sales rank b
 
 Firstly, the data is collected by scraping the required parameters. The data which is scraped is stored in a file in .csv format. This data is used as input in the forest regression. It is then trained using the input data and the output which is the sales rank. 
 
-Dataset
+<h3>Dataset</h3>
 
 <img src="Images/datasetss.png" width="800"/>
