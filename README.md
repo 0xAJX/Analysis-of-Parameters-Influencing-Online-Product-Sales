@@ -10,4 +10,4 @@ Firstly, the data is collected by scraping the required parameters. The data whi
 
 Dataset
 
-<img src="images/datasetss.png" alt="drawing" width="400"/>
+<img src="Images/datasetss.png" width="800"/>
